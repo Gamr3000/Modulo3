@@ -17,4 +17,5 @@ Este é um projeto para a criação de um sistema de Help Desk. O sistema permit
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-help-desk.git
+   git clone https://github.com/Gamr3000/Modulo3.git
+s
